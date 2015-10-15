@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7093" started-at="2015-08-24T16:12:10Z" finished-at="2015-08-24T16:12:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7093" started-at="2015-08-24T16:12:10Z" finished-at="2015-08-24T16:12:17Z">
+      <class name="spi.prod.testcases.VerifyMenuLinks_01">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:spi.prod.testcases.VerifyMenuLinks_01@19bb089b]" name="beforeMethod" is-config="true" duration-ms="4235" started-at="2015-08-24T12:12:10Z" finished-at="2015-08-24T12:12:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="run01()[pri:0, instance:spi.prod.testcases.VerifyMenuLinks_01@19bb089b]" name="run01" duration-ms="2846" started-at="2015-08-24T12:12:14Z" finished-at="2015-08-24T12:12:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- run01 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:spi.prod.testcases.VerifyMenuLinks_01@19bb089b]" name="afterMethod" is-config="true" duration-ms="0" started-at="2015-08-24T12:12:17Z" finished-at="2015-08-24T12:12:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- spi.prod.testcases.VerifyMenuLinks_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
